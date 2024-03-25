@@ -1,0 +1,1 @@
+C:\Users\cleme\OneDrive\Bureau\Sfreeroam\FXserver.exe +exec server.cfg
